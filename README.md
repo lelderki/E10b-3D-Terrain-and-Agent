@@ -1,4 +1,6 @@
-# E10b-3D-Terrain-and-Agent
+# E10b-3D-Terrain-and-Agent Excersize for MSCH220 Indiana University 
+# Directions are below: 
+
 This is an exercise to explore adding 3D terrain and a simple AI agent to a scene.
 
 As usual, Fork and Clone this repository.
