@@ -6,3 +6,11 @@ func _ready():
 func _unhandled_input(event):
 	if Input.is_action_pressed("Quit"):
 		get_tree().quit()
+
+
+func _on_Nerby_body_entered(body):
+	pass # Replace with function body.
+
+
+func _on_Nearby_body_exited(body):
+	pass # Replace with function body.
